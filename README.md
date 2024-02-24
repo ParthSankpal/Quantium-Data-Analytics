@@ -8,4 +8,4 @@
 
 📈 Strategic Reporting for Decision Making: Leveraged insights from various analytical tasks to compile comprehensive reports for the Category Manager. These reports were instrumental in facilitating informed strategic decisions, enhancing the commercial applications of data analytics.
 
-[Certificate](https://github.com/ParthSankpal/Quantium-Data-Analytics/files/14393744/Quantium.DA.Certificate.Parth.Sankpal.pdf)
+![image](https://github.com/ParthSankpal/Quantium-Data-Analytics/assets/114609530/2e18795a-9aaa-4817-b5bf-10d6585d3a4a)
